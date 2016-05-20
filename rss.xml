@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Unicoder]]></title>
         <description><![CDATA[Unicoder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/unicoder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 07:44:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 07:45:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/unicoder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wayne Shorter and Herbie Hancock's Open Letter]]></title>
+            <description><![CDATA[<h1>Wayne Shorter and Herbie Hancock's Open Letter</h1>]]></description>
+            <link>https://thegrid.ai/unicoder/wayne-shorter-and-herbie-hancocks-open-letter/index.html</link>
+            <guid isPermaLink="false">35411b3a-64a0-438c-8bf1-58fe3fc5f97e</guid>
+            <pubDate>Fri, 20 May 2016 07:44:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sir George Martin, rip]]></title>
             <description><![CDATA[<article><h1>Sir George Martin, rip</h1><p>The greatest argument for George Martin's musical genius may be this: He had an open mind and was willing to take what he later called "a calculated risk" in auditioning and signing The Beatles. Think about that. Martin didn't like their "old stuff," a bunch of cover tunes, or their "mediocre" originals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be16a44771c03f9f37c1d75aef53d0f7e6574515.jpg"></article>]]></description>
