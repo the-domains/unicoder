@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4802373
+  lightness: 0.8029063
+  brandStrength: 0.5420117
+  rhythmicContrast: 0.2236549
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.9895228
+name: Unicoder
